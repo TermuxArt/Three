@@ -10,4 +10,4 @@ python three.py
 
 # Image
 
-<img scr="Three.png">
+<img src="Three.png">
